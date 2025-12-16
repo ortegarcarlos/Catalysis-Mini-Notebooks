@@ -13,7 +13,7 @@ All notebooks are designed to run directly in **Google Colab**, so you only need
 
 ## What You’ll Find Here
 
-- Short notebooks (usually 10–20 lines of code)  
+- Short notebooks 
 - Clear explanations aimed at students and early‑career researchers  
 - Visualizations of fundamental catalytic concepts  
 - Code that runs top‑to‑bottom without modification  
